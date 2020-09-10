@@ -1,2 +1,2 @@
 Sktred Exploit
-Last Version: 2.1
+Last Version: 2.2
